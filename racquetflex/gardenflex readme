@@ -1,0 +1,11 @@
+GardenFlex is a redesign of the Genesis Sample child theme that replaces all the floats and clears, and most of the block and inline elements, with flex elements and their containers.
+
+Or, shorter and more clearly, the Flexbox is baked right in!
+
+The type family Haboro is available in a web-only version from fonts.com. Montserrat is a Google font family enqueued in functions.php.
+
+Photography is mine, from the Devil's Punchbowl, shot in the last year or so - whatever the creation dates are on the files.
+
+Pix and my code revisions are GPL 2.0+; StudioPress code is as well but comes, of course, from the fine folks in that operation.
+
+Enjoy!
